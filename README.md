@@ -73,7 +73,7 @@ vm
 ### Решение 3
 файл [5jbjects](https://github.com/Dmitriy-Garfild/terraform2/blob/master/5objects.PNG)
 
-[main](https://github.com/Dmitriy-Garfild/terraform2/blob/master/main.tf-v1)
+[main](https://github.com/Dmitriy-Garfild/terraform2/blob/master/main.tf-v2)
 
 
 ### Задание 4
