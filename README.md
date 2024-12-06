@@ -71,7 +71,9 @@ vm
 ### Решение 2
 
 
-файл план [ок](https://github.com/Dmitriy-Garfild/terraform2/blob/master/2-planOk.PNG)
+файл 
+
+[ок](https://github.com/Dmitriy-Garfild/terraform2/blob/master/2-planOk.PNG)
 
 
 ### Задание 3
@@ -81,7 +83,10 @@ vm
 3. Примените изменения.
 
 ### Решение 3
-файл [5jbjects](https://github.com/Dmitriy-Garfild/terraform2/blob/master/5objects.PNG)
+файл 
+
+[5jbjects](https://github.com/Dmitriy-Garfild/terraform2/blob/master/5objects.PNG)
+
 
 [main](https://github.com/Dmitriy-Garfild/terraform2/blob/master/main.tf-v2)
 
@@ -95,6 +100,8 @@ vm
 
 ### Решение 4
 файл 
+
+
 [outputs.tf](https://github.com/Dmitriy-Garfild/terraform2/blob/master/outputs.tf)
 
 
