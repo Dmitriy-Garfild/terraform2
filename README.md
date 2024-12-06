@@ -139,9 +139,15 @@ vm
 
 
 [MapObjects.tf](https://github.com/Dmitriy-Garfild/terraform2/blob/master/MapObjects.tf)
-[main.tf](https://github.com/Dmitriy-Garfild/terraform2/blob/master/main.tf)
-закоментированы строки в файле [variables.tf](https://github.com/Dmitriy-Garfild/terraform2/blob/master/variables.tf)
 
+
+[main.tf](https://github.com/Dmitriy-Garfild/terraform2/blob/master/main.tf)
+
+
+закоментированы строки в файле 
+
+
+[variables.tf](https://github.com/Dmitriy-Garfild/terraform2/blob/master/variables.tf)
 
 
 ------
