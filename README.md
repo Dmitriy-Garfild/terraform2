@@ -43,13 +43,13 @@
 
 ### Решение 1
 1-5
-были заменены все переменные на "хард кодинг" исправления внесены и закоментированы в коде в файле main copy.tf-v1
+были заменены все переменные на "хард кодинг" исправления внесены и закоментированы в коде в файле [main](https://github.com/Dmitriy-Garfild/terraform2/blob/master/main.tf-v1)
 
 6,7
 файл 
-ipvm
+[ipvm](https://github.com/Dmitriy-Garfild/terraform2/blob/master/ipvm.png)
 vm
-main.tf-v1
+[main.tf-v1](https://github.com/Dmitriy-Garfild/terraform2/blob/master/main.tf-v1)
 
 8
 ```preemptible = true``` и ```core_fraction=5```  -- делают виртуальные машины более дешовыми
