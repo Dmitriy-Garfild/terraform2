@@ -61,7 +61,7 @@ vm
 3. Проверьте terraform plan. Изменений быть не должно. 
 
 ### Решение 2
-файл план ок
+файл план [ок](https://github.com/Dmitriy-Garfild/terraform2/blob/master/2-planOk.PNG)
 
 
 ### Задание 3
@@ -71,10 +71,9 @@ vm
 3. Примените изменения.
 
 ### Решение 3
-файл 5objects
+файл [5jbjects](https://github.com/Dmitriy-Garfild/terraform2/blob/master/5objects.png)
 
-main.tf-v2
-
+[main](https://github.com/Dmitriy-Garfild/terraform2/blob/master/main.tf-v1)
 
 
 ### Задание 4
