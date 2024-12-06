@@ -50,6 +50,7 @@
 ipvm
 vm
 main.tf-v1
+
 8
 ```preemptible = true``` и ```core_fraction=5```  -- делают виртуальные машины более дешовыми
 
