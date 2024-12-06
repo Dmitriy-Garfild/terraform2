@@ -71,7 +71,7 @@ vm
 3. Примените изменения.
 
 ### Решение 3
-файл [5jbjects](https://github.com/Dmitriy-Garfild/terraform2/blob/master/5objects.png)
+файл [5jbjects](https://github.com/Dmitriy-Garfild/terraform2/blob/master/5objects.PNG)
 
 [main](https://github.com/Dmitriy-Garfild/terraform2/blob/master/main.tf-v1)
 
