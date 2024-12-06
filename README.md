@@ -138,15 +138,15 @@ vm
 ### Решение 6
 
 
-MapObjects.tf
-main.tf
-закоментированы строки в файле variables.tf
+[MapObjects.tf](https://github.com/Dmitriy-Garfild/terraform2/blob/master/MapObjects.tf)
+[main.tf](https://github.com/Dmitriy-Garfild/terraform2/blob/master/main.tf)
+закоментированы строки в файле [variables.tf](https://github.com/Dmitriy-Garfild/terraform2/blob/master/variables.tf)
 
 
 
 ------
 
-к сожалению я безнадежно отстаю по домашним заданиям, по этому неотложно приступаю к следующему. Простите , что пренебрегаю доп заданиями.
+к сожалению я отстаю по домашним заданиям, по этому неотложно приступаю к следующему. Простите , что пренебрегаю доп заданиями.
 
 
 ## Дополнительное задание (со звёздочкой*)
