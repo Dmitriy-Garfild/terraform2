@@ -47,7 +47,7 @@
 
 6,7
 файл 
-[ipvm](https://github.com/Dmitriy-Garfild/terraform2/blob/master/ipvm.png)
+[ipvm.png](https://github.com/Dmitriy-Garfild/terraform2/blob/master/ipvm.PNG)
 vm
 [main.tf-v1](https://github.com/Dmitriy-Garfild/terraform2/blob/master/main.tf-v1)
 
