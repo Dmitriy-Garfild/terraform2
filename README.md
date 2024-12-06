@@ -85,7 +85,7 @@ vm
 
 ### Решение 4
 файл 
-outputs.tf
+[outputs.tf](https://github.com/Dmitriy-Garfild/terraform2/blob/master/outputs.tf)
 
 
 ### Задание 5
@@ -96,8 +96,8 @@ outputs.tf
 
 ### решение 5
 файл
-main.tf-v3
-locals.tf
+[main.tf-v3](https://github.com/Dmitriy-Garfild/terraform2/blob/master/main.tf-v3)
+[locals.tf](https://github.com/Dmitriy-Garfild/terraform2/blob/master/local.tf)
 
 ### Задание 6
 
@@ -140,7 +140,7 @@ locals.tf
 
 MapObjects.tf
 main.tf
-закоментированы строки в variables.tf
+закоментированы строки в файле variables.tf
 
 
 
