@@ -47,9 +47,17 @@
 
 6,7
 файл 
+
+
 [ipvm.png](https://github.com/Dmitriy-Garfild/terraform2/blob/master/ipvm.PNG)
+
+
 vm
+
+
 [main.tf-v1](https://github.com/Dmitriy-Garfild/terraform2/blob/master/main.tf-v1)
+
+
 
 8
 ```preemptible = true``` и ```core_fraction=5```  -- делают виртуальные машины более дешовыми
@@ -61,6 +69,8 @@ vm
 3. Проверьте terraform plan. Изменений быть не должно. 
 
 ### Решение 2
+
+
 файл план [ок](https://github.com/Dmitriy-Garfild/terraform2/blob/master/2-planOk.PNG)
 
 
@@ -96,7 +106,11 @@ vm
 
 ### решение 5
 файл
+
+
 [main.tf-v3](https://github.com/Dmitriy-Garfild/terraform2/blob/master/main.tf-v3)
+
+
 [locals.tf](https://github.com/Dmitriy-Garfild/terraform2/blob/master/local.tf)
 
 ### Задание 6
